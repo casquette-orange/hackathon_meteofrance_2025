@@ -13,9 +13,5 @@ pip install -r requirements.txt
 >>python main_RRq99refD.py
 
 
-
-## lib/
---> les scripts et outils de dev
-
 ## data/
 --> la data
