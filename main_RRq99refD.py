@@ -9,7 +9,7 @@ import matplotlib.patheffects as pe
 
 
 # --- CHEMIN A MODIFIER ---
-DOSSIER_DONNEES = ""
+DOSSIER_DONNEES = "data/"
 
 ORDRE_SCENARIOS = {
     'Value_RWL_0': 0.0,
@@ -214,4 +214,5 @@ def main():
     print("========================================")
 
 if __name__ == "__main__":
+
     main()
