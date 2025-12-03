@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 from shapely.geometry import Point
 
 csv_paths = [
-    "data/tracc3/Indicateurs-Absolue_Centiles-Explore2-Climat_Moyenne-20ans_RWL20_csv/RRq99_yr_RWL-20_TIMEavg_GEOxy_FR-Metro_EXPLORE2-2022_MF-ADAMONT_rcp85_ENSmax.csv",
-    "data/tracc3/Indicateurs-Absolue_Centiles-Explore2-Climat_Moyenne-20ans_RWL40_csv/RRq99_yr_RWL-40_TIMEavg_GEOxy_FR-Metro_EXPLORE2-2022_MF-ADAMONT_rcp85_ENSmax.csv"
+    "data/RRq99/RRq99_yr_RWL-20_TIMEavg_GEOxy_FR-Metro_EXPLORE2-2022_MF-ADAMONT_rcp85_ENSmax.csv",
+    "data/RRq99/RRq99_yr_RWL-40_TIMEavg_GEOxy_FR-Metro_EXPLORE2-2022_MF-ADAMONT_rcp85_ENSmax.csv"
 ]
 
 # Lecture et nettoyage des fichiers
